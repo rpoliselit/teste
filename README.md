@@ -1,5 +1,5 @@
-# Teste Repo
+# Repositório teste
 
 ![Stanley Fritz](Fritz.jpg)
 
-Repositorio de exemplo do curso de Git e Github.
+Repositório de exemplo do curso de Git e Github.
